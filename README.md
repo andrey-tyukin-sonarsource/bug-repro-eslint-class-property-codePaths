@@ -4,6 +4,14 @@ This repository contains a minimal example that demonstrates
 unexpected behavior of ESLint control flow analysis in the
 presence of classes with instance fields.
 
+## Usage
+
+```
+npm install
+node index.js 1   # Runs Example 01
+node index.js 2   # Runs Example 02
+```
+
 ## Example 01
 
 This code snippet:

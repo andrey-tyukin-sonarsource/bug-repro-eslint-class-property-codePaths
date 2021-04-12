@@ -1,0 +1,23 @@
+{
+  "name": "bug-repro-eslint-class-property-codepaths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-tyukin-sonarsource/bug-repro-eslint-class-property-codePaths.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrey-tyukin-sonarsource/bug-repro-eslint-class-property-codePaths/issues"
+  },
+  "homepage": "https://github.com/andrey-tyukin-sonarsource/bug-repro-eslint-class-property-codePaths#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.24.0"
+  }
+}
